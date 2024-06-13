@@ -5,7 +5,7 @@ Desarrollador iOS
 -----------------
 
 * 🌍  Vivo en Santiago de Chile
-* 🖥️  Mira mi portafolio en [Portfolio](http://lpzc.vercel.app)
+* 🖥️  Mira mi portafolio en [LPZC](http://lpzc.vercel.app)
 
 <a href="https://www.github.com/lpzcahuillan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lpzcahuillan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
