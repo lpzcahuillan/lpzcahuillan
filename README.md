@@ -76,9 +76,9 @@ src="https://img.shields.io/twitter/follow/lpzcahuillan?logo=twitter&style=for-t
 
 <b>Mis estadísticas de GitHub</b>
 
-<a href="http://www.github.com/lpzcahuillan"><img src="https://github-readme-stats.vercel.app/api?username=lpzcahuillan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estadísticas de GitHub de lpzcahuillan" /></a>
+<a href="http://www.github.com/lpzcahuillan"><img src="https://github-readme-stats.vercel.app/api?username=lpzcahuillan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&es" alt="Estadísticas de GitHub de lpzcahuillan" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpzcahuillan&layout=pie&langs_count=8&bg_color=1c1917&title_color=0891b2&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpzcahuillan&layout=pie&langs_count=8&bg_color=1c1917&title_color=0891b2&text_color=ffffff&es)](https://github.com/anuraghazra/lpzcahuillan)
 
 <b>Repositorios Destacados</b>
 
