@@ -78,7 +78,7 @@ src="https://img.shields.io/twitter/follow/lpzcahuillan?logo=twitter&style=for-t
 
 <a href="http://www.github.com/lpzcahuillan"><img src="https://github-readme-stats.vercel.app/api?username=lpzcahuillan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estadísticas de GitHub de lpzcahuillan" /></a>
 
-<a href="https://github.com/lpzcahuillan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lpzcahuillan&locale=en&hide_title=false&layout=compact&card_width=550&title_color=0891b2&text_color=ffffff&langs_count=7&bg_color=1c1917&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpzcahuillan&layout=pie&langs_count=8&bg_color=1c1917&title_color=0891b2&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 <b>Repositorios Destacados</b>
 
