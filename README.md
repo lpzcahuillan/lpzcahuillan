@@ -94,11 +94,7 @@ src="https://img.shields.io/twitter/follow/lpzcahuillan?logo=twitter&style=for-t
 
 ### Apóyame
 
-<ul style="list-style-type: none; margin: 0;">
-  <li style="display: inline-block; margin-right: 0.25rem;">
+<div align="left" style="list-style-type: none; margin: 0;">
     <a href="https://www.buymeacoffee.com/lpzcahuillan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
-  </li>
-  <li style="display: inline-block; margin-right: 0.25rem;">
     <a href="https://www.ko-fi.com/lpzcahuillan"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" /></a>
-  </li>
-</ul>
+</div>
